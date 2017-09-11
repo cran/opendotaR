@@ -1,0 +1,11 @@
+591ce1df772aafb7b612ebe595e7115b *DESCRIPTION
+ee4d10c991a9bddc4f6339aa9160a75e *NAMESPACE
+b5e4708b9925f224044ef23cee94e966 *R/api_delay.R
+23c276de44a25b05219591a24f129952 *R/get_game_list.R
+bb8b0c618bdca362c12f240d0b687c13 *R/get_games.R
+9754f6657156edee6b921e7af89b8bc5 *R/get_latest_games.R
+7e1d93139be67cca238504cf1e88fc6f *README.md
+e2d79adfb2077bd7248a1f8fa57d7edf *man/api_delay.Rd
+ad9bfd6fe41449c859f0b58c1a78cfee *man/get_game_list.Rd
+43c8075397628fe8d716d8dc8b01f90e *man/get_games.Rd
+92432ebfd8adc5e210855bd68f8a8e49 *man/get_latest_games.Rd
